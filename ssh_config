@@ -1,0 +1,16 @@
+  GNU nano 2.5.3                     File: /home/aditi/.ssh/config                                        Modified  
+
+# UMich GitLab
+Host gitlab
+  HostName gitlab.com
+  User git
+  IdentityFile ~/.ssh/aramas      
+# CAEN
+Host caen
+  HostName login.engin.umich.edu
+  User aramas  
+  Compression yes
+
+
+
+
