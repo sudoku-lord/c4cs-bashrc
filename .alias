@@ -1,0 +1,9 @@
+alias l="ls -la"       
+alias ld="ls -ld */"   
+alias ..="cd .."
+alias ...="cd ../.."
+alias ....="cd ../../.."
+alias p="pwd"
+alias gcom="git commit -m" # can I do this? I'm doing it
+alias train="sl"
+alias moo="cowsay"
